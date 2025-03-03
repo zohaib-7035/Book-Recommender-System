@@ -1,0 +1,7 @@
+### dependency
+streamlit
+numpy
+sciket-learn
+
+### local packages -
+-e . 
